@@ -1,0 +1,13 @@
+F:\CSharp\AdventCode2022\AdventCode2022\bin\Debug\netcoreapp3.1\AdventCode2022.exe
+F:\CSharp\AdventCode2022\AdventCode2022\bin\Debug\netcoreapp3.1\AdventCode2022.deps.json
+F:\CSharp\AdventCode2022\AdventCode2022\bin\Debug\netcoreapp3.1\AdventCode2022.runtimeconfig.json
+F:\CSharp\AdventCode2022\AdventCode2022\bin\Debug\netcoreapp3.1\AdventCode2022.runtimeconfig.dev.json
+F:\CSharp\AdventCode2022\AdventCode2022\bin\Debug\netcoreapp3.1\AdventCode2022.dll
+F:\CSharp\AdventCode2022\AdventCode2022\bin\Debug\netcoreapp3.1\AdventCode2022.pdb
+F:\CSharp\AdventCode2022\AdventCode2022\obj\Debug\netcoreapp3.1\AdventCode2022.csprojAssemblyReference.cache
+F:\CSharp\AdventCode2022\AdventCode2022\obj\Debug\netcoreapp3.1\AdventCode2022.AssemblyInfoInputs.cache
+F:\CSharp\AdventCode2022\AdventCode2022\obj\Debug\netcoreapp3.1\AdventCode2022.AssemblyInfo.cs
+F:\CSharp\AdventCode2022\AdventCode2022\obj\Debug\netcoreapp3.1\AdventCode2022.csproj.CoreCompileInputs.cache
+F:\CSharp\AdventCode2022\AdventCode2022\obj\Debug\netcoreapp3.1\AdventCode2022.dll
+F:\CSharp\AdventCode2022\AdventCode2022\obj\Debug\netcoreapp3.1\AdventCode2022.pdb
+F:\CSharp\AdventCode2022\AdventCode2022\obj\Debug\netcoreapp3.1\AdventCode2022.genruntimeconfig.cache
