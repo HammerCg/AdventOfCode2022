@@ -31,12 +31,11 @@ namespace AdventCode2022
                         var day3 = new Day3();
                         day3.Execute();                        
                         break;
-                        /*
                     case "4":
                         var day4 = new Day4();
-                        day4.PartOne();
-                        day4.PartTwo();
+                        day4.Execute();                        
                         break;
+                        /*
                     case "5":
                         var day5 = new Day5();
                         day5.PartOne();
