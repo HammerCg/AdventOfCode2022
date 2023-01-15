@@ -10,8 +10,8 @@ namespace AdventCode2022
 
             while (true)
             {
-                if (DateTime.Now.Second % 3 == 0)
-                    Console.ForegroundColor = (ConsoleColor)random.Next(0, 16);
+                //if (DateTime.Now.Second % 3 == 0)
+                  //  Console.ForegroundColor = (ConsoleColor)random.Next(0, 16);
 
                 Console.WriteLine("\nTake a valid day from 1 to 30");
                 string key = Console.ReadLine();
@@ -35,52 +35,43 @@ namespace AdventCode2022
                         var day4 = new Day4();
                         day4.Execute();                        
                         break;
-                        /*
                     case "5":
                         var day5 = new Day5();
-                        day5.PartOne();
-                        day5.PartTwo();
+                        day5.Execute();                        
                         break;
                     case "6":
                         var day6 = new Day6();
-                        day6.PartOne();
-                        day6.PartTwo();
+                        day6.Execute();
                         break;
                     case "7":
                         var day7 = new Day7();
-                        day7.PartOne();
-                        day7.PartTwo();
+                        day7.Execute();                        
                         break;
                     case "8":
                         var day8 = new Day8();
-                        day8.PartOne();
-                        day8.PartTwo();
+                        day8.Execute();
                         break;
                     case "9":
                         var day9 = new Day9();
-                        day9.PartOne();
-                        day9.PartTwo();
+                        day9.Execute();
                         break;
                     case "10":
                         var day10 = new Day10();
-                        day10.PartOne();
-                        day10.PartTwo();
+                        day10.Execute();
                         break;
                     case "11":
                         var day11 = new Day11();
-                        day11.PartOne();
-                        day11.PartTwo();
+                        day11.Execute();
                         break;
                     case "12":
                         var day12 = new Day12();
-                        day12.PartOne();
-                        day12.PartTwo();
+                        day12.Execute();
                         break;
                     case "13":
                         var day13 = new Day13();
-                        day13.PartOne();
-                        day13.PartTwo();
+                        day13.Execute();
                         break;
+                        /*
                     case "14":
                         var day14 = new Day14();
                         day14.PartOne();
