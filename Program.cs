@@ -71,17 +71,15 @@ namespace AdventCode2022
                         var day13 = new Day13();
                         day13.Execute();
                         break;
-                        /*
                     case "14":
                         var day14 = new Day14();
-                        day14.PartOne();
-                        day14.PartTwo();
+                        day14.Execute();
                         break;
                     case "15":
                         var day15 = new Day15();
-                        day15.PartOne();
-                        day15.PartTwo();
+                        day15.Execute();
                         break;
+                        /*
                     case "16":
                         var day16 = new Day16();
                         day16.PartOne();
